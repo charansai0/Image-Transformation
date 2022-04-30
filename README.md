@@ -31,8 +31,8 @@ Crop the image using cropped_img=input_img[20:150,60:230]
 Display all the Transformed images and end the program.
 
 ## PROGRAM:
-# Developed By: v.charan sai
-# Register Number: 212221240061
+### Developed By: v.charan sai
+### Register Number: 212221240061
 ~~~
 import numpy as np
 import cv2
